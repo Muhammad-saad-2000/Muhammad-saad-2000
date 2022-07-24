@@ -6,7 +6,7 @@
 
 <!-- Section 0 -->
 <p align='justify'>
-Small talk
+A fourth year computer engineering student at Faculty of Engineering Cairo University who is influenced by sciences and philosophy and lives to solve new problems, mostly interested in mathematics which implies my interest in algorithms construction and analysis especially in Machine Learning and Data Science, also I am a fan of automation which led to my interest in DevOps.
 </p>
 
 <!-- Section 1 -->

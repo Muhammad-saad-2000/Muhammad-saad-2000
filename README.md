@@ -10,15 +10,18 @@ A fourth year computer engineering student at Faculty of Engineering Cairo Unive
 </p>
 
 <!-- Section 1 -->
-![](https://raw.githubusercontent.com/Muhammad-saad-2000/Muhammad-saad-2000/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+<div align='center'>
+<h2> ⭐ GitHub Status ⭐ </h2>
 
+![](https://raw.githubusercontent.com/Muhammad-saad-2000/Muhammad-saad-2000/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+<br>
 ![](https://raw.githubusercontent.com/Muhammad-saad-2000/Muhammad-saad-2000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Muhammad-saad-2000/Muhammad-saad-2000/main/profile-summary-card-output/github_dark/3-stats.svg)
-
+</div>
 
 <!-- Section 2 -->
 <div align='center'>
-	<h2> 👨‍💻 Languages & Technologies & Platforms 👩‍💻 </h2>
+	<h2> 👨‍💻 Languages & Technologies & Platforms 👨‍💻 </h2>
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
@@ -37,7 +40,7 @@ A fourth year computer engineering student at Faculty of Engineering Cairo Unive
 
 <!-- Section 3 -->
 <div align='center'>
-	<h2> 👨🏻‍🔧 Projects I'm proud of👩🏻‍🔬</h2>
+	<h2> 👨🏻‍🔧 Projects I'm proud of 👨🏻‍🔧</h2>
 	<a href="https://github.com/radwaahmed2132000/Auto-Grader">
 		<img width="1261" alt="image"
 		src="https://user-images.githubusercontent.com/49572294/178153051-34179648-8083-4943-b84d-428333594172.png">

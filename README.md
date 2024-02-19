@@ -1,6 +1,6 @@
 <div align='center'>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Mohamed!&fontAlign=50&fontAlignY=40&color=timeGradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Mohammed!&fontAlign=50&fontAlignY=40&color=timeGradient)
 
 </div>
 
@@ -10,6 +10,7 @@ I am a computer engineer with a specialization in artificial intelligence, holdi
 </p>
 
 <!-- Section 1 -->
+<!-- 
 <div align='center'>
 <h2> ⭐ GitHub Status ⭐ </h2>
 
@@ -21,12 +22,15 @@ I am a computer engineer with a specialization in artificial intelligence, holdi
 
 <!-- Section 2 -->
 <div align='center'>
-	<h2> 👨‍💻 Languages & Technologies & Platforms 👨‍💻 </h2>
+	<h2> 👨‍💻 Languages & Libraries & Technologies & Platforms 👨‍💻 </h2>
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="CSS3" />
+<br>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="Pytorch" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="scikitlearn" />
 <br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" title="Docker" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" title="AWS" />

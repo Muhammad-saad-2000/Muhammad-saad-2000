@@ -24,13 +24,15 @@ I am a computer engineer with a specialization in artificial intelligence, holdi
 <div align='center'>
 	<h2> 👨‍💻 Languages & Libraries & Technologies & Platforms 👨‍💻 </h2>
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
+	<img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="50" title="Julia" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" />
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="CSS3" />
 <br>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="Pytorch" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="Pytorch" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="scikitlearn" />
+	<img src="https://avatars.githubusercontent.com/u/26222520?s=200&v=4" width="50" title="flux" />
 <br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" title="Docker" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" title="AWS" />

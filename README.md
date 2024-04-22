@@ -96,5 +96,11 @@ I am a computer engineer with a specialization in artificial intelligence, holdi
 
 <!-- Section 5 -->
 <div align='center'>
+	<h2> 🛠️ Contribution 🛠️ </h2>
+	For highlights of my contributions, please follow this link: <a href="https://swamp-line-5e7.notion.site/My-Projects-47548391df7548a7b873300b589d8aa0?pvs=4"> 🔗 </a>
+</div>
+
+<!-- Section 7 -->
+<div align='center'>
 	<h2> 💖 Thank You 💖 </h2>
 </div>

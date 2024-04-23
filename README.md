@@ -32,6 +32,7 @@ I am a computer engineer with a specialization in artificial intelligence, holdi
 <br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="Pytorch" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="scikitlearn" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" title="Pytorch" />
 	<img src="https://avatars.githubusercontent.com/u/26222520?s=200&v=4" width="50" title="flux" />
 <br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" title="Docker" />
